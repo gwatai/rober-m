@@ -1,10 +1,14 @@
 ### Hi there 👋
 I'm Robertino Martinez. I'm a Civil engineer, programmer, and entrepreneur looking to make a living solving interesting problems while helping people.
+I'm also the founder of [EBCourses](https://ebcourses.com/), [SearchForMe](https://searchforme.app/), and a few other companies.
 
 The quickest way to reach me is through: 
 <div>
-<a style="display:inline" href="https://twitter.com/robertinom_en">
-  <img style="margin-top:30px" alt="Robertino Martinez | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/robertinom_en">
+  <img style="margin-top:30px" alt="Robertino Martinez | Twitter" width="22px" src="https://raw.githubusercontent.com/IIPatternII/IIPatternII/main/assets/twitter.svg" />
+</a>
+<a href="mailto:hi@robertinomartinez.com">
+  <img style="margin-top:30px" alt="Robertino Martinez | Twitter" width="22px" src="https://raw.githubusercontent.com/IIPatternII/IIPatternII/main/assets/email.svg" />
 </a>
 </div>
 
