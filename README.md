@@ -4,7 +4,7 @@ I'm an educator at [IOG/IOHK](https://iog.io) and I'm the founder of [EBCourses]
 
 The quickest way to reach me is through: 
 <div>
-<a href="https://twitter.com/robertinom_en">
+<a href="https://twitter.com/_roberm_">
   <img style="margin-top:30px" alt="Robertino Martinez | Twitter" width="22px" src="https://raw.githubusercontent.com/IIPatternII/IIPatternII/main/assets/twitter.svg" />
 </a>
 <a href="mailto:hi@robertinomartinez.com">
