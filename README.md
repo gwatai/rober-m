@@ -1,13 +1,13 @@
 ### Hi there 👋
-I'm Robertino Martinez. Civil engineer, programmer, and entrepreneur looking to make a living solving interesting problems while helping people.
-I'm an educator at [IOG/IOHK](https://iog.io) and I'm the founder of [EBCourses](https://ebcourses.com/), [SearchForMe](https://searchforme.app/), and a few other companies.
+I'm Nicholas aka Mr Chebukati. a programmer, founder, and entrepreneur looking to make a living solving interesting problems while helping people.
+I'm a CEO & Founder at [MyKura]([https://iog.io](https://www.myvotemykura.co.ke/)) and a few other companies.
 
 The quickest way to reach me is through: 
 <div>
-<a href="https://twitter.com/_roberm_">
+<a href="https://twitter.com/MrChebukatii">
   <img style="margin-top:30px" alt="Robertino Martinez | Twitter" width="22px" src="https://raw.githubusercontent.com/IIPatternII/IIPatternII/main/assets/twitter.svg" />
 </a>
-<a href="mailto:hi@robertinomartinez.com">
+<a href="mailto:hi@gwatainicholas@gmail.com">
   <img style="margin-top:30px" alt="Robertino Martinez | Twitter" width="22px" src="https://raw.githubusercontent.com/IIPatternII/IIPatternII/main/assets/email.svg" />
 </a>
 </div>
